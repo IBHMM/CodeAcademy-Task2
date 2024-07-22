@@ -1,0 +1,15 @@
+{
+  "name": "usermanagementsystem",
+  "version": "1.0.0",
+  "description": "**Objective:** Create a web application using JavaScript that displays user data in an HTML table, with pagination, search functionality, and methods for age calculation and retirement status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
